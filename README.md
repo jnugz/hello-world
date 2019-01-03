@@ -1,2 +1,3 @@
 # hello-world
-Hello World Project
+Hello JNUGZ! 
+I like tennis, vollebyall, and cooking.
